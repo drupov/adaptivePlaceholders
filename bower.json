@@ -29,8 +29,5 @@
     "demo",
     "screenshots",
     "scss"
-  ],
-  "dependencies": {
-    "normalize-scss": "~3.0.1"
-  }
+  ]
 }
